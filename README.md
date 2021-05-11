@@ -1,6 +1,6 @@
 # Vue-tree
   Implementing Binary Tree in vue.
-  Based on a certian requirements;
+  Based on a certian requirements
   
 
 ## Project setup
