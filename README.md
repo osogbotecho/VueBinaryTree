@@ -1,4 +1,7 @@
-# abdul-vue-tree
+# Vue-tree
+  Implementing Binary Tree in vue.
+  Based on a certian requirements;
+  
 
 ## Project setup
 ```
